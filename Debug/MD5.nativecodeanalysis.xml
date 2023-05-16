@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\swag3\source\repos\coursework\coursework\</FILEPATH>
+      <FILENAME>MD5.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>MD5::appendBits</FUNCTION>
+    <DECORATED>?appendBits@MD5@@AAEXAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,4 @@
+﻿  Vigenere.cpp
+C:\Users\swag3\source\repos\coursework\coursework\Vigenere.cpp(7,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\swag3\source\repos\coursework\coursework\Vigenere.cpp(26,23): warning C4018: <: несоответствие типов со знаком и без знака
+  coursework.vcxproj -> C:\Users\swag3\source\repos\coursework\Debug\coursework.exe
